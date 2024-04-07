@@ -13,7 +13,7 @@ SolTick revolutionizes ticket sales using blockchain technology and NFTs, ensuri
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
 
 ## Team
-[**Santiago Castro**](https://www.linkedin.com/in/santiago-castro-mu%C3%B1oz/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BwgWMTkCtTYu2OHgOaoNk9g%3D%3D)
+[**Santiago Castro**](https://www.linkedin.com/in/santiago-castro-2b2a77276/)
 [**Daniel Gutiérrez**]()
 [**Erick Garavito**](https://www.linkedin.com/in/erick-santiago-garavito-villamil-974275250/)
 
