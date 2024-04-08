@@ -14,7 +14,7 @@ This project is generated with the [create-solana-dapp](https://github.com/solan
 
 ## Team
 [**Santiago Castro**](https://www.linkedin.com/in/santiago-castro-2b2a77276/)
-[**Daniel Gutiérrez**]()
+[**Daniel Gutiérrez**](https://www.linkedin.com/in/daniel-guti%C3%A9rrez-rodr%C3%ADguez-194499200/)
 [**Erick Garavito**](https://www.linkedin.com/in/erick-santiago-garavito-villamil-974275250/)
 
 
